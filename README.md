@@ -1,6 +1,6 @@
 # Final Project Webpage
 **EEC 172: Embedded Systems**   
-**Team Members:** Brandon Wong, Rohit Singh  
+**Team Partner:** Brandon Wong
 **Under the sincere guidance of:** Professor Soheil Ghiasi and TA Rishad Joarder
 
 ---
@@ -120,5 +120,4 @@ Tilt-based input is reused for the “Play Again?” menu, with inverse-color fe
 
 ---
 
-> Built with ❤️ by Brandon Wong & Rohit Singh  
 > UC Davis — Spring 2025
