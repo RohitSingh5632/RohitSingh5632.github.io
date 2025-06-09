@@ -1,6 +1,7 @@
 # Final Project Webpage
 **EEC 172: Embedded Systems**   
 **Team Partner:** Brandon Wong
+
 **Under the sincere guidance of:** Professor Soheil Ghiasi and TA Rishad Joarder
 
 ---
